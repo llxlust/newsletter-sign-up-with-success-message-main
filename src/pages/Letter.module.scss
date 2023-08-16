@@ -1,0 +1,10 @@
+$background-color:hsl(234, 29%, 20%);
+
+.bgColor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-color: $background-color;
+}
